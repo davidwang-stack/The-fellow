@@ -1,0 +1,9 @@
+{
+  "accounts": [
+    "karpathy",
+    "sama",
+    "elonmusk"
+  ],
+  "maxTweetsPerAccount": 5,
+  "lookbackDays": 2
+}
