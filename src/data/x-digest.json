@@ -1,21 +1,16 @@
 {
-  "generated_at": "2026-02-02T17:31:12.821Z",
+  "generated_at": "2026-02-04T13:51:54.198Z",
   "lookbackDays": 2,
   "maxTweetsPerAccount": 5,
   "accounts": [
     {
-      "username": "karpathy",
-      "error": "HTTP 401 Unauthorized :: https://api.x.com/2/users/by/username/karpathy?user.fields=profile_image_url,verified\n{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}",
+      "username": "elonmusk",
+      "error": "HTTP 500 Internal Server Error :: https://api.x.com/2/users/by/username/elonmusk?user.fields=profile_image_url,verified\n",
       "items": []
     },
     {
       "username": "sama",
-      "error": "HTTP 401 Unauthorized :: https://api.x.com/2/users/by/username/sama?user.fields=profile_image_url,verified\n{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}",
-      "items": []
-    },
-    {
-      "username": "elonmusk",
-      "error": "HTTP 401 Unauthorized :: https://api.x.com/2/users/by/username/elonmusk?user.fields=profile_image_url,verified\n{\n  \"title\": \"Unauthorized\",\n  \"type\": \"about:blank\",\n  \"status\": 401,\n  \"detail\": \"Unauthorized\"\n}",
+      "error": "HTTP 500 Internal Server Error :: https://api.x.com/2/users/by/username/sama?user.fields=profile_image_url,verified\n",
       "items": []
     }
   ]

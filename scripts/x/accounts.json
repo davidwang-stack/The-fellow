@@ -1,8 +1,7 @@
 {
   "accounts": [
-    "karpathy",
-    "sama",
-    "elonmusk"
+    "elonmusk",
+    "sama"
   ],
   "maxTweetsPerAccount": 5,
   "lookbackDays": 2
